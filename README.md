@@ -1,5 +1,5 @@
 # Muting-Bot
-A bot that mutes vc, For among us
+A discord bot that mutes vc, For among us
 
 # Installing 
 Clone the repository. Go inside the folder, and rename `.env.example` to `.env`.\
