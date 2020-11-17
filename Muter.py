@@ -18,7 +18,7 @@ Util = discord.utils
 
 @Dude.event
 async def on_ready():
-    print(f"{Dude.user.name} is ready!")
+    print(f"{Dude.user.name} is ready!\nType {Command}help for help.")
 
 
 @Dude.command(name="mute",
