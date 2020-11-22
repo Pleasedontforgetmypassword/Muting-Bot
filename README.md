@@ -10,3 +10,7 @@ Once the steps are done. Type `python Muter.py` to run the bot.
 # Note
 You can customize the command prefix e.g: ($)mute, (!)mute, (@)mute, etc\
 By changing the symbol inside the `.env`, COMMAND. This is set to "$".
+
+# Usage
+$ is the default command prefix, but you can always change it. To use the bot type `$help`.\
+To use mute type `$mute (vc)`. To use unmute type `$unmute (vc)`.
